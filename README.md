@@ -1,6 +1,6 @@
 # FinancialCrm Projesi
 
-FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş ve sonrasında eklemiş olduğum değişikliklerde aşağıda görmüş olduğunuz hali almıştır.
+FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş ve sonrasında eklemiş olduğum değişikliklerle birlikte aşağıdaki güncel halini almıştır.
 
 Proje Başlığı ve Teknolojiler
 
