@@ -40,7 +40,7 @@ namespace FinancialCrm
             var lang = db.Settings.FirstOrDefault(x => x.Name == "AppLanguage");
             if (lang != null)
             {
-                cmbLanguage.SelectedItem = lang.Value; // TR veya EN
+                cmbLanguage.SelectedItem = lang.Value; 
             }
 
             var currency2 = db.Settings.FirstOrDefault(x => x.Name == "DefaultCurrency");
