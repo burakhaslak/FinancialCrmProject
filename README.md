@@ -10,20 +10,26 @@ Proje Başlığı ve Teknolojiler
 Öne Çıkan Özellikler 
 
 ✅ Kullanıcı Girişi: Güvenli login sistemi, şifre doğrulama ve kullanıcı profili yönetimi
+
 ✅ Profil Yönetimi: Ad, soyad, doğum yeri, banka şubesi, telefon ve e-posta bilgilerini görüntüleme ve güncelleme
+
 ✅ Banka İşlemleri:
 *Banka bakiyelerini görüntüleme (Ziraat Bankası, Vakıfbank, İş Bankası)
 *Son banka işlemlerini listeleme
+
 ✅Giderler Yönetimi:
 *Elektrik, su, doğalgaz ve internet faturalarını ekleme, silme ve güncelleme
 *DataGridView ile fatura listesi ve CRUD işlemleri
+
 ✅ Dashboard ve Grafikler:
 *Toplam bakiye ve son işlemlerin görselleştirilmesi
 *Banka ve fatura verilerini grafiklerle gösterme
+
 ✅ Uygulama Ayarları:
 *Döviz seçimi (TL, USD, EUR)
 *Uygulama dili (TR / EN)
 *Otomatik hatırlatıcı ayarı
+
 ✅ Otomatik Ödeme Talimatı:
 *Kullanıcı, faturalar için tekrar eden ödemeleri ayarlayabilir
 
