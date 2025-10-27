@@ -5,6 +5,7 @@ FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş 
 Proje Başlığı ve Teknolojiler
 
 *FinancialCRM – Windows Forms, Entity Framework DB First, ADO.NET.
+
 *Amaç: Banka hesapları, faturalar ve kullanıcı profili yönetimi ile verilerin görselleştirildiği bir masaüstü uygulama.
 
 Öne Çıkan Özellikler 
@@ -14,30 +15,41 @@ Proje Başlığı ve Teknolojiler
 ✅ Profil Yönetimi: Ad, soyad, doğum yeri, banka şubesi, telefon ve e-posta bilgilerini görüntüleme ve güncelleme
 
 ✅ Banka İşlemleri:
+
 *Banka bakiyelerini görüntüleme (Ziraat Bankası, Vakıfbank, İş Bankası)
+
 *Son banka işlemlerini listeleme
 
 ✅Giderler Yönetimi:
+
 *Elektrik, su, doğalgaz ve internet faturalarını ekleme, silme ve güncelleme
+
 *DataGridView ile fatura listesi ve CRUD işlemleri
 
 ✅ Dashboard ve Grafikler:
+
 *Toplam bakiye ve son işlemlerin görselleştirilmesi
+
 *Banka ve fatura verilerini grafiklerle gösterme
 
 ✅ Uygulama Ayarları:
+
 *Döviz seçimi (TL, USD, EUR)
+
 *Uygulama dili (TR / EN)
+
 *Otomatik hatırlatıcı ayarı
 
-✅ Otomatik Ödeme Talimatı:
-*Kullanıcı, faturalar için tekrar eden ödemeleri ayarlayabilir
+✅ Otomatik Ödeme Talimatı:Kullanıcı, faturalar için tekrar eden ödemeleri ayarlayabilir
 
 💡 Proje Deneyimi
 
 *Entity Framework ile veri çekme, ekleme, güncelleme ve silme işlemlerini uygulamalı olarak öğrenme
+
 *Kullanıcı deneyimini ön planda tutarak modüler form yapısı oluşturma
+
 *Grafik ve DataGridView kullanarak dinamik ve görselleştirilmiş veri yönetimi
+
 *CRUD işlemleri ve form navigasyonu ile gerçek dünya finansal uygulama mantığını kavrama
 
 <img width="798" height="473" alt="login" src="https://github.com/user-attachments/assets/2734d9a2-13ba-4ffa-a493-0aa13b6b3270" />
