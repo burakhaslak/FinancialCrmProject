@@ -1,38 +1,40 @@
-# FinancialCrm Projesi
+# 💰 FinancialCrm Projesi
 
 FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş ve sonrasında eklemiş olduğum değişikliklerle birlikte aşağıdaki güncel halini almıştır.
 
-🛠️ Teknolojiler
-Platform: Windows Forms (.NET Framework)
+🛠️ **Teknolojiler**
 
-Veritabanı Erişimi: Entity Framework (DB First Yaklaşımı) & ADO.NET
+  󠁯•󠁏󠁏 **Platform:*** Windows Forms (.NET Framework)
 
-Dil: C#
+  󠁯•󠁏󠁏 **Veritabanı Erişimi:** Entity Framework (DB First Yaklaşımı) & ADO.NET
 
-✨ Temel Özellikler
-Bu uygulama, kullanıcıların finansal verilerini kolayca yönetmesini ve görselleştirmesini sağlar:
+  󠁯•󠁏󠁏 **Dil:** C#
 
-Güvenli Kullanıcı Yönetimi: Şifreli giriş, profil görüntüleme ve güncelleme.
+✨ **Temel Özellikler**
 
-Banka Hesap Takibi: Çoklu banka (Ziraat, Vakıfbank, İş Bankası) bakiyelerini ve son işlemlerini listeleme.
+󠁯Bu uygulama, kullanıcıların finansal verilerini kolayca yönetmesini ve görselleştirmesini sağlar:
 
-Kapsamlı Gider Yönetimi (CRUD): Elektrik, su, doğalgaz, internet faturalarını ekleme, düzenleme ve silme.
+  󠁯•󠁏󠁏 ***Güvenli Kullanıcı Yönetimi**: Şifreli giriş, profil görüntüleme ve güncelleme.
 
-Dashboard & Veri Görselleştirme: Toplam bakiye, son işlemler, banka ve fatura verilerinin dinamik grafiklerle gösterimi.
+  󠁯•󠁏󠁏 **Banka Hesap Takibi:** Çoklu banka (Ziraat, Vakıfbank, İş Bankası) bakiyelerini ve son işlemlerini listeleme.
 
-Otomasyon ve Ayarlar:
+  󠁯•󠁏󠁏 **Kapsamlı Gider Yönetimi (CRUD):** Elektrik, su, doğalgaz, internet faturalarını ekleme, düzenleme ve silme.
 
-Otomatik Ödeme Talimatı oluşturma.
+  󠁯•󠁏󠁏 **Dashboard & Veri Görselleştirme:** Toplam bakiye, son işlemler, banka ve fatura verilerinin dinamik grafiklerle gösterimi.
 
-Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
+  󠁯•󠁏 **Otomasyon ve Ayarlar:**
 
-💡 Kazanımlar & Öğrenilenler
-Gerçek Dünya Uygulaması: CRUD operasyonları ve modüler form yapısı ile finansal bir uygulamanın temel mantığının kavranması.
+      •󠁏Otomatik Ödeme Talimatı oluşturma.
 
-Veri Yönetimi: Entity Framework kullanarak (çekme, ekleme, güncelleme, silme) veritabanı işlemlerinde deneyim kazanma.
+      •󠁏Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
 
-Kullanıcı Deneyimi (UX): Dinamik DataGridView ve grafik kütüphaneleri ile verilerin görsel, anlaşılır sunumu.
+💡 **Kazanımlar & Öğrenilenler**
+  •󠁏 **Gerçek Dünya Uygulaması:** CRUD operasyonları ve modüler form yapısı ile finansal bir uygulamanın temel mantığının kavranması.
 
+  •󠁏 **Veri Yönetimi:** Entity Framework kullanarak (çekme, ekleme, güncelleme, silme) veritabanı işlemlerinde deneyim kazanma.
+
+  •󠁏 **Kullanıcı Deneyimi (UX):** Dinamik DataGridView ve grafik kütüphaneleri ile verilerin görsel, anlaşılır sunumu.
+  
 <img width="798" height="473" alt="login" src="https://github.com/user-attachments/assets/2734d9a2-13ba-4ffa-a493-0aa13b6b3270" />
 
 <img width="796" height="474" alt="profil" src="https://github.com/user-attachments/assets/196f8133-009b-4367-a71e-0bdb451c9545" />
