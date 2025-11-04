@@ -2,55 +2,36 @@
 
 FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş ve sonrasında eklemiş olduğum değişikliklerle birlikte aşağıdaki güncel halini almıştır.
 
-Proje Başlığı ve Teknolojiler
+🛠️ Teknolojiler
+Platform: Windows Forms (.NET Framework)
 
-*FinancialCRM – Windows Forms, Entity Framework DB First, ADO.NET.
+Veritabanı Erişimi: Entity Framework (DB First Yaklaşımı) & ADO.NET
 
-*Amaç: Banka hesapları, faturalar ve kullanıcı profili yönetimi ile verilerin görselleştirildiği bir masaüstü uygulama.
+Dil: C#
 
-Öne Çıkan Özellikler 
+✨ Temel Özellikler
+Bu uygulama, kullanıcıların finansal verilerini kolayca yönetmesini ve görselleştirmesini sağlar:
 
-✅ Kullanıcı Girişi: Güvenli login sistemi, şifre doğrulama ve kullanıcı profili yönetimi
+Güvenli Kullanıcı Yönetimi: Şifreli giriş, profil görüntüleme ve güncelleme.
 
-✅ Profil Yönetimi: Ad, soyad, doğum yeri, banka şubesi, telefon ve e-posta bilgilerini görüntüleme ve güncelleme
+Banka Hesap Takibi: Çoklu banka (Ziraat, Vakıfbank, İş Bankası) bakiyelerini ve son işlemlerini listeleme.
 
-✅ Banka İşlemleri:
+Kapsamlı Gider Yönetimi (CRUD): Elektrik, su, doğalgaz, internet faturalarını ekleme, düzenleme ve silme.
 
-*Banka bakiyelerini görüntüleme (Ziraat Bankası, Vakıfbank, İş Bankası)
+Dashboard & Veri Görselleştirme: Toplam bakiye, son işlemler, banka ve fatura verilerinin dinamik grafiklerle gösterimi.
 
-*Son banka işlemlerini listeleme
+Otomasyon ve Ayarlar:
 
-✅Giderler Yönetimi:
+Otomatik Ödeme Talimatı oluşturma.
 
-*Elektrik, su, doğalgaz ve internet faturalarını ekleme, silme ve güncelleme
+Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
 
-*DataGridView ile fatura listesi ve CRUD işlemleri
+💡 Kazanımlar & Öğrenilenler
+Gerçek Dünya Uygulaması: CRUD operasyonları ve modüler form yapısı ile finansal bir uygulamanın temel mantığının kavranması.
 
-✅ Dashboard ve Grafikler:
+Veri Yönetimi: Entity Framework kullanarak (çekme, ekleme, güncelleme, silme) veritabanı işlemlerinde deneyim kazanma.
 
-*Toplam bakiye ve son işlemlerin görselleştirilmesi
-
-*Banka ve fatura verilerini grafiklerle gösterme
-
-✅ Uygulama Ayarları:
-
-*Döviz seçimi (TL, USD, EUR)
-
-*Uygulama dili (TR / EN)
-
-*Otomatik hatırlatıcı ayarı
-
-✅ Otomatik Ödeme Talimatı:Kullanıcı, faturalar için tekrar eden ödemeleri ayarlayabilir
-
-💡 Proje Deneyimi
-
-*Entity Framework ile veri çekme, ekleme, güncelleme ve silme işlemlerini uygulamalı olarak öğrenme
-
-*Kullanıcı deneyimini ön planda tutarak modüler form yapısı oluşturma
-
-*Grafik ve DataGridView kullanarak dinamik ve görselleştirilmiş veri yönetimi
-
-*CRUD işlemleri ve form navigasyonu ile gerçek dünya finansal uygulama mantığını kavrama
+Kullanıcı Deneyimi (UX): Dinamik DataGridView ve grafik kütüphaneleri ile verilerin görsel, anlaşılır sunumu.
 
 <img width="798" height="473" alt="login" src="https://github.com/user-attachments/assets/2734d9a2-13ba-4ffa-a493-0aa13b6b3270" />
 
