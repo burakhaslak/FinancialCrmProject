@@ -2,15 +2,15 @@
 
 FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş ve sonrasında eklemiş olduğum değişikliklerle birlikte aşağıdaki güncel halini almıştır.
 
-🛠️ **Teknolojiler**
+# 🛠️ **Teknolojiler**
 
-  󠁯•󠁏󠁏 **Platform:*** Windows Forms (.NET Framework)
+  󠁯•󠁏󠁏 **Platform:** Windows Forms (.NET Framework)
 
   󠁯•󠁏󠁏 **Veritabanı Erişimi:** Entity Framework (DB First Yaklaşımı) & ADO.NET
 
   󠁯•󠁏󠁏 **Dil:** C#
 
-✨ **Temel Özellikler**
+# ✨ **Temel Özellikler**
 
 󠁯Bu uygulama, kullanıcıların finansal verilerini kolayca yönetmesini ve görselleştirmesini sağlar:
 
@@ -28,7 +28,7 @@ FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş 
 
     •󠁏Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
 
-💡 **Kazanımlar & Öğrenilenler**
+# 💡 **Kazanımlar & Öğrenilenler**
 
   •󠁏 **Gerçek Dünya Uygulaması:** CRUD operasyonları ve modüler form yapısı ile finansal bir uygulamanın temel mantığının kavranması.
 
