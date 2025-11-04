@@ -24,11 +24,12 @@ FinancialCrm Projesi, Murat Yücedağ'ın C# Eğitim Kampı'nda geliştirilmiş 
 
   󠁯•󠁏 **Otomasyon ve Ayarlar:**
 
-      •󠁏Otomatik Ödeme Talimatı oluşturma.
+    •󠁏Otomatik Ödeme Talimatı oluşturma.
 
-      •󠁏Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
+    •󠁏Uygulama dili (TR/EN) ve döviz (TL, USD, EUR) seçimi.
 
 💡 **Kazanımlar & Öğrenilenler**
+
   •󠁏 **Gerçek Dünya Uygulaması:** CRUD operasyonları ve modüler form yapısı ile finansal bir uygulamanın temel mantığının kavranması.
 
   •󠁏 **Veri Yönetimi:** Entity Framework kullanarak (çekme, ekleme, güncelleme, silme) veritabanı işlemlerinde deneyim kazanma.
